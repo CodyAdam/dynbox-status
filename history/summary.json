@@ -4,17 +4,19 @@
     "url": "https://dynbox.co",
     "icon": "https://icons.duckduckgo.com/ip3/dynbox.co.ico",
     "slug": "dynbox",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 683,
-    "timeDay": 449,
-    "timeWeek": 455,
-    "timeMonth": 486,
-    "timeYear": 683,
-    "dailyMinutesDown": {}
+    "time": 681,
+    "timeDay": 453,
+    "timeWeek": 456,
+    "timeMonth": 485,
+    "timeYear": 681,
+    "dailyMinutesDown": {
+      "2024-12-16": 0
+    }
   }
 ]
