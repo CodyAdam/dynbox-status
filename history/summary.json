@@ -6,17 +6,15 @@
     "slug": "dynbox",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 696,
-    "timeDay": 1086,
+    "time": 695,
+    "timeDay": 1106,
     "timeWeek": 666,
-    "timeMonth": 544,
-    "timeYear": 696,
-    "dailyMinutesDown": {
-      "2024-12-16": 7
-    }
+    "timeMonth": 546,
+    "timeYear": 695,
+    "dailyMinutesDown": {}
   }
 ]
